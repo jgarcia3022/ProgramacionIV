@@ -1,6 +1,6 @@
 import Bd
 from modelo import Slang507
-
+#SEGUNDA TAREA SQLALCHEMY
 
 def Agregar():
 
